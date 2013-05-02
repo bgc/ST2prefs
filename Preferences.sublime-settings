@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"font_face": "Consolas",
+    "font_size": 14,
+    // Columns in which to display vertical rulers
+    "rulers": [80]
+}
