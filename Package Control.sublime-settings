@@ -1,7 +1,14 @@
 {
 	"installed_packages":
 	[
+		"AndyJS2",
 		"AngularJS Attributes Completion",
+		"Autocomplete Javascript with Method Signature",
+		"BracketHighlighter",
+		"Console API Snippets (JavaScript)",
+		"Package Control",
+		"SublimeBlockCursor",
+		"Theme - Nexus",
 		"Theme - Soda"
 	]
 }
