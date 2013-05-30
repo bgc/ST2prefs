@@ -2,13 +2,21 @@
 	"installed_packages":
 	[
 		"AndyJS2",
+		"AngularJS",
 		"AngularJS Attributes Completion",
 		"Autocomplete Javascript with Method Signature",
 		"BracketHighlighter",
 		"Console API Snippets (JavaScript)",
+		"DocBlockr",
+		"Emmet",
+		"JSHint",
+		"JSLint",
 		"Package Control",
+		"Sublime-JSHint",
 		"SublimeBlockCursor",
+		"SublimeLinter",
 		"Theme - Nexus",
-		"Theme - Soda"
+		"Theme - Soda",
+		"VintageEx"
 	]
 }
